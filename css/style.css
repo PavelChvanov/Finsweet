@@ -748,6 +748,7 @@ align-items: center;
 }
 .request__map {
   padding: 0 auto;
+  margin: 0 auto;
   margin-bottom: -168px;
   height: 512px;
   width: 100%;
