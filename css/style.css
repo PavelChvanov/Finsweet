@@ -747,6 +747,7 @@ align-items: center;
   color: #FFFFFF;
 }
 .request__map {
+  position: relative;
   padding: 0 auto;
   margin: 0 auto;
   margin-bottom: -168px;
